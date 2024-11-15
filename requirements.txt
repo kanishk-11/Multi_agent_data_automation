@@ -1,0 +1,4 @@
+chainlit
+pyautogen
+python-decouple
+pandas
